@@ -6,8 +6,8 @@ for (let count = 1; count <= 10; count++) {
 }
 
 //makkelijker
+const table = 9;
 for (let count = 1; count <= 10; count++) {
-  const table = 9;
   console.log(`${count} x ${table} = ${count * table}`);
 }
 
